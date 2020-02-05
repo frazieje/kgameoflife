@@ -1,4 +1,4 @@
-package com.digitalturbine.kkata2
+package com.frazieje.gameoflife
 
 interface GameHandler {
 

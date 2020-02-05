@@ -1,4 +1,4 @@
-package com.digitalturbine.kkata2
+package com.frazieje.gameoflife
 
 import javafx.application.Application
 import javafx.stage.Stage

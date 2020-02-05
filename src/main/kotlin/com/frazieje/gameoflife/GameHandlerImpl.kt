@@ -1,4 +1,4 @@
-package com.digitalturbine.kkata2
+package com.frazieje.gameoflife
 
 import java.time.Instant
 import kotlin.random.Random
